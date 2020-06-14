@@ -24,7 +24,7 @@ library("ggplot2")
 ## Task
 
 ```{r Stuff}
-# set seed for reproducability
+# set seed for reproducability 1
 set.seed(31)
 
 # set lambda to 0.2
